@@ -11,11 +11,39 @@ This project detects human emotions from facial expressions using transfer learn
 
 ## ⚙️ Approach
 
-* Used pre-trained ImageNet weights
-* Fine-tuned top layers for emotion classification
+* Used ImageNet pre-trained weights
+* Fine-tuned top layers
 * Compared performance of both models
 
 ## 📊 Results
 
 * VGG16 Accuracy: XX%
 * ResNet50 Accuracy: XX%
+
+## 🛠️ Tech Stack
+
+* Python
+* TensorFlow / Keras
+* OpenCV
+* NumPy, Matplotlib, Seaborn
+
+## 🚀 How to Run
+
+```bash
+pip install -r requirements.txt
+```
+
+Run notebook:
+
+```bash
+emotion_detection.ipynb
+```
+
+## 📁 Project Structure
+
+```
+emotion-detection-dl/
+│── emotion_detection.ipynb
+│── images/
+│── README.md
+```
