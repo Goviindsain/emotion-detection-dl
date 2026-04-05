@@ -54,4 +54,4 @@ emotion-detection-dl/
 ![Confusion Matrix](images/confusion_matrix.png)
 
 ### Performance Metrics
-![Plotting](images/Performance_metrics.png)
+![Plotting](images/Performace_metrics.png)
