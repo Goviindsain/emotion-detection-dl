@@ -47,3 +47,11 @@ emotion-detection-dl/
 │── images/
 │── README.md
 ```
+
+## 📊 Results
+
+### Confusion Matrix
+![Confusion Matrix](images/confusion_matrix.png)
+
+### Performance Metrics
+![Training Graph](images/Performance_metrics.png)
